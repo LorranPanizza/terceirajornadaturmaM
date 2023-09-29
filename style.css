@@ -2,6 +2,9 @@
 h1 {
     color: aliceblue;
 }
+p{
+    color: aliceblue;
+}
     body {
     background-image: url("download.jpg");
     background-repeat: no-repeat;
