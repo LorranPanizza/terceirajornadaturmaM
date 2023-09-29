@@ -4,6 +4,11 @@ h1 {
     text-align: center;
     font-size: 80px;
 }
+h2 {
+    color: aliceblue;
+    text-align: center;
+    font-size: 60px;
+}
 p{
     color: aliceblue;
     text-align: left;
