@@ -1,4 +1,8 @@
-body {
+
+h1 {
+    color: aliceblue;
+}
+    body {
     background-image: url("download.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
