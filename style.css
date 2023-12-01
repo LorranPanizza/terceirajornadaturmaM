@@ -1,4 +1,6 @@
 
+<<<<<<< HEAD
+=======
 #titulo1 {
     color: #940B92;
     text-align: center;
@@ -19,6 +21,7 @@ p{
 }
     body {
    background-color: #610C9F;
+
     
 
 
@@ -28,3 +31,6 @@ p{
  width: 300px;
  margin: 0%;
 }
+.cabecalho { background-color: #E95793;}
+
+>>>>>>> bd31bda48f5289763d458c79b52d7e45cebee4a9
